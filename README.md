@@ -1,16 +1,70 @@
-## Hi there 👋
+# Hi there, I'm Martin
+<a href="https://www.linkedin.com/in/martin-nguyen-cybersecurity/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-<!--
-**martinnguyen06/martinnguyen06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I am a SOC analyst with a passion for building and implementing security solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Objective
+
+My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+
+## Skills
+
+| Skill                                         | Associated Project         |
+|-----------------------------------------------|----------------------------|
+| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
+| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
+| Security Automation with Shuffle SOAR         | SOC Automation Lab|
+| Incident Response Planning and Execution      | SOC Automation Lab|
+| Case Management with TheHive                  | SOC Automation Lab|
+| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+
+## Tools
+
+### SIEM
+<div>
+    <img src="https://img.shields.io/badge/-%23000000?style=for-the-badge&logo=splunk&logoColor=white&logoSize=auto" />
+    <img src="https://img.shields.io/badge/Wazuh-%2300A9E5?style=for-the-badge&logoSize=auto" />
+    <img src="https://img.shields.io/badge/Microsoft%20Sentinel-%23104581?style=for-the-badge&logoSize=auto" />
+</div>
+
+### Network Monitoring and Analysis
+<div>
+    <img src="https://img.shields.io/badge/Wireshark-%231679A7?style=for-the-badge&logo=wireshark&logoColor=white&logoSize=auto" />
+    <img src="https://img.shields.io/badge/suricata-%23DC642B?style=for-the-badge&logoSize=auto" />
+</div>
+
+### SOAR
+<div>
+    <img src="https://img.shields.io/badge/Shuffle-%23F46719?style=for-the-badge&logoSize=auto" />
+</div>
+
+### Threat Intelligence and Incident Response
+<div>
+    <img src="https://img.shields.io/badge/TheHive-%23FDEE21?style=for-the-badge&logoSize=auto" />
+    <img src="https://img.shields.io/badge/MITRE%20ATT%26CK%20Framework-blue?style=for-the-badge&logoSize=auto" />
+    <img src="https://img.shields.io/badge/TTPs-orange?style=for-the-badge&logoSize=auto" />
+</div>
+
+### Programming Languages
+<div>
+    <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
+    <img src="https://img.shields.io/badge/python-%233776AB?style=for-the-badge&logo=python&logoColor=white&logoSize=auto" />
+</div>
+
+### Operating System
+<div>
+    <img src="https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white" />
+    <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />  
+</div>
+
+## Certifications
+<div>
+    <img src="https://img.shields.io/badge/Security%2B-%23C8202F?style=for-the-badge&logo=comptia&logoColor=white&logoSize=auto" />
+    <img src="https://img.shields.io/badge/Cybersecurity%20Defense%20Analyst-%23000000?style=for-the-badge&logo=splunk&logoColor=white&logoSize=auto" />
+
+</div>
+
+## Projects
+- Detection Lab
+- SOC Automation Project
