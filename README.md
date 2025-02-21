@@ -1,23 +1,15 @@
 # Hi there, I'm Martin
-<a href="https://www.linkedin.com/in/martin-nguyen-cybersecurity/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/martin-nguyen-cybersecurity">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
-
-I am a SOC analyst with a passion for building and implementing security solutions.
-
-## Objective
-
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+I am a SOC analyst with a passion for building and implementing security solutions. My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
 ## Skills
 
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Project                                         | Skills                     |
+|-------------------------------------------------|----------------------------|
+| Building a SOC Automation for Mimikatz Detection| Security Automation with Shuffle SOAR <br /> Incident Response Planning and Execution <br /> Case Management with TheHive <br /> Scripting and Automation for Threat Mitigation |
 
 ## Tools
 
@@ -66,5 +58,6 @@ My journey in computer science has led me to develop a passion for cybersecurity
 </div>
 
 ## Projects
-- Detection Lab
-- SOC Automation Project
+- Building a SOC Automation for Mimikatz Detection
+- Home Cybersecurity Lab for Telemetry Analysis
+
