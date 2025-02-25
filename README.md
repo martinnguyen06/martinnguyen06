@@ -9,7 +9,7 @@ I am a SOC analyst with a passion for building and implementing security solutio
 
 | Project                                         | Skills                     |
 |-------------------------------------------------|----------------------------|
-| SOC Automation Project| SIEM Configuration and Management with Wazuh <br /> Incident Response and Case Management with TheHive <br /> Security Orchestration and Automation with Shuffle SOAR <br /> Advanced System Monitoring and Event Logging with Sysmon <br /> Threat Intelligence Enrichment and Malware Analysis with VirusTotal |
+| [SOC Automation Project](https://github.com/martinnguyen06/SOC-Automation-Project)| SIEM Configuration and Management with Wazuh <br /> Incident Response and Case Management with TheHive <br /> Security Orchestration and Automation with Shuffle SOAR <br /> Advanced System Monitoring and Event Logging with Sysmon <br /> Threat Intelligence Enrichment and Malware Analysis with VirusTotal |
 
 ## Tools
 
@@ -58,6 +58,6 @@ I am a SOC analyst with a passion for building and implementing security solutio
 </div>
 
 ## Projects
-- Building a SOC Automation for Mimikatz Detection
-- Home Cybersecurity Lab for Telemetry Analysis
+- [SOC Automation Project](https://github.com/martinnguyen06/SOC-Automation-Project)
+- Homelab for Telemetry Analysis
 
