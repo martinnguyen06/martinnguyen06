@@ -15,7 +15,7 @@ I am a SOC analyst with a passion for building and implementing security solutio
 
 ### SIEM
 <div>
-    <img src="https://img.shields.io/badge/Splunk-%23000000?style=for-the-badge&logo=splunk" />
+    <img src="https://img.shields.io/badge/splunk-%23000000?style=for-the-badge&logo=splunk&logoSize=auto" />
     <img src="https://img.shields.io/badge/Wazuh-%2300A9E5?style=for-the-badge&logoSize=auto" />
     <img src="https://img.shields.io/badge/Microsoft%20Sentinel-%23104581?style=for-the-badge&logoSize=auto" />
 </div>
